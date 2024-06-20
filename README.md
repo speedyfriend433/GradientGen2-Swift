@@ -62,6 +62,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+[@speedyfriend433](https://twitter.com/speedyfriend433) - speedyfriend433@gmail.com
 
-Project Link: [https://github.com/yourusername/GradientGen2](https://github.com/speedyfriend433/GradientGen2)
+Project Link: [https://github.com/speedyfriend433/GradientGen2](https://github.com/speedyfriend433/GradientGen2)
