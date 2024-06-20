@@ -45,8 +45,8 @@ The app requires access to the photo library to save the gradient images. Please
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/speedyfriend433/GradientGen2-Swift/assets/171631703/bc9c7565-2c57-4d81-b0fe-1c96fd8a2940)
+
 
 ## Contributing
 
